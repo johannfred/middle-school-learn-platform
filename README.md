@@ -69,9 +69,9 @@ middle-school-learn-platform/
 
 ---
 
-## 📸 Screenshots (Coming Soon)
+## 📸 Screenshots 
 
-Add screenshots or demo GIFs here once the UI is ready.
+<img width="1366" height="1284" alt="image" src="https://github.com/user-attachments/assets/fa39bbc5-378e-4d96-b6dc-f2e81ab12186" />
 
 ---
 
